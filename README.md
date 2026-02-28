@@ -1,4 +1,4 @@
-# 9Mail — Web Mail Client
+# Web Mail Client for 9Mail
 
 This is a lightweight webmail application for 9Mail Server, developed entirely using AI.
 
